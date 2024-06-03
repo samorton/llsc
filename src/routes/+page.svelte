@@ -13,8 +13,7 @@
 	<h1>
 		<span class="welcome">
 			<picture>
-				<source srcset={fb1} type="image/webp" />
-				<img src={fb1} alt="Welcome" />
+				<img src={fb2} alt="Welcome" />
 			</picture>
 		</span>
     <br />
@@ -41,14 +40,13 @@
 		position: relative;
 		width: 100%;
 		height: 0;
-        padding: 0 0 calc(100% * 495 / 2048) 0;
 	}
 
-	.welcome img {
+	/*.welcome img {
 		position: absolute;
 		width: 100%;
 		height: 100%;
 		top: 0;
 		display: block;
-	}
+	}*/
 </style>
