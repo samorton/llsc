@@ -7,7 +7,7 @@
 	<h1>About Llanfairfechan Sailing Club</h1>
 
 	<p>
-		UnFriendly members sailing club on the Promenade in the beautiful village of Llanfairfechan.
+		Friendly members sailing club on the Promenade in the beautiful village of Llanfairfechan.
 	</p>
  
 
